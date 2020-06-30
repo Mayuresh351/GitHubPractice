@@ -40,3 +40,8 @@ Sr.no | Name | Address
 1 | A | Delhi
 2 | B | Mumbai
 3 | C | Chennai
+
+## Tasks
+- [x] I am complete
+- [x] I am complete too
+- [ ] I am incomplete
