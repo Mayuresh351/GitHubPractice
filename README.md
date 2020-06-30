@@ -1,7 +1,7 @@
 # Eklavya20 - Catch Practice Bot
 
 ## Contents
-* About the project
+* '<About the project>'
   * Tech Stack
   * File Structure
 * Getting Started
